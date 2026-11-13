@@ -22,7 +22,7 @@ Los scripts de Google Earth Engine usados en cada sesión están en la carpeta [
 Este repositorio es una plantilla para configurar un sitio web con [`github-pages`](https://pages.github.com/) que aloja todo el contenido (instrucciones paso a paso, diapositivas, código) de talleres de capacitación.
 
 ```
-biodiversity_workshop/
+biodiversity_and_ecosystem_workshop/
 ├── 1-intro-to-GoogleEarth/         # Material y guías del día 2
 ├── 2-intro-to-GEE/   # Material y guías del día 3
 ├── scripts/                # Scripts de GEE organizados por día
