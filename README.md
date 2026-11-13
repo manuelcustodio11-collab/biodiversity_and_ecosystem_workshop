@@ -15,7 +15,7 @@ El taller está organizado en dos módulos:
 
 ## Scripts
 
-Los scripts de Google Earth Engine usados en cada sesión están en la carpeta [`scripts/`](scripts/), organizados por día (`day_1`, `day_2`, `day_3`).
+Los scripts de Google Earth Engine usados en cada sesión están en la carpeta [`scripts/`](scripts/).
 
 ## Estructura del repositorio
 
