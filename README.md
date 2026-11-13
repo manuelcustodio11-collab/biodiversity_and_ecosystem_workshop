@@ -12,7 +12,6 @@ El taller está organizado en dos módulos:
 
 - **[1. Google Earth ](1-intro-to-GoogleEarth/)** — Introducción a Google Earth en la web, nuevas herramientas!
 - **[2. Google Earth Engine](2-ecosystems-changes/)** — Análisis de similitud y detección de cambios usando embeddings satelitales.
-- **[3. Biomasa aérea (AGB)](3-agb-biomass/)** — Estimación de biomasa aérea con embeddings satelitales.
 
 ## Scripts
 
@@ -29,8 +28,6 @@ biodiversity_workshop/
 ├── scripts/                # Scripts de GEE organizados por día
 ├── images/                 # Imágenes y figuras usadas en el sitio
 ├── index.md                # Página principal del sitio
-├── partners.md             # Socios y colaboradores
-├── resources.md            # Recursos adicionales
 └── _config.yml             # Configuración de GitHub Pages
 ```
 <!-- :construction: Under Construction :construction:
