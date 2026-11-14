@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introducción a GE"
+title: "1-intro-to-GoogleEarth"
 permalink: /1-intro-to-GoogleEarth
 has_children: true
 nav_order: 2
@@ -25,7 +25,7 @@ Navegar en la interfaz de Google Earth en la web (GE) y aprender a almacenar, im
 
 ---
 
-## 💾 Almacenar
+## Almacenar
 
 Puedes guardar tus datos en la **nube** o en tu **dispositivo**:
 
@@ -34,7 +34,7 @@ Puedes guardar tus datos en la **nube** o en tu **dispositivo**:
 
 ---
 
-## 📥 Importar
+## Importar
 
 | | Componentes de mapa | Capa de datos | KML local |
 |---|---|---|---|
@@ -51,14 +51,14 @@ Puedes guardar tus datos en la **nube** o en tu **dispositivo**:
 
 ---
 
-## 👁️ Visibilidad
+## Visibilidad
 
 - **Ocultar o mostrar:** clic en el ícono junto al nombre de la capa.
 - **Ordenar:** clic derecho sobre la capa → *Traer al frente* o *Enviar al fondo*.
 
 ---
 
-## 🛰️ Imágenes
+## Imágenes
 
 - **Fecha de la imagen:** aparece en pantalla; revísala siempre antes de interpretar.
 - **Imágenes históricas:** permiten comparar el mismo lugar en distintos años (ideal para detectar cambios como deforestación).
@@ -67,13 +67,13 @@ Puedes guardar tus datos en la **nube** o en tu **dispositivo**:
 
 ---
 
-## 🗂️ Catálogo de datos
+## Catálogo de datos
 
-Capas listas para usar desde Google Earth, como modelos de elevación, curvas de nivel, límites administrativos y población. Se añaden directamente al mapa sin necesidad de descargar nada.
+Capas listas para usar desde Google Earth, como modelos de elevación, curvas de nivel, límites administrativos, población, land cover (WorldCover). Se añaden directamente al mapa sin necesidad de descargar nada.
 
 ---
 
-## 🔗 Proyectos de referencia (reference layers)
+## Proyectos de referencia (reference layers)
 
 Permiten ver otro proyecto como capa de fondo mientras trabajas en el tuyo, sin mezclarlos.
 
@@ -85,7 +85,7 @@ Permiten ver otro proyecto como capa de fondo mientras trabajas en el tuyo, sin 
 
 ---
 
-## 🛠️ Herramientas
+## Herramientas
 
 - **Crear mapas:** marcadores, líneas y polígonos.
 - **Medir:** distancias, áreas y círculos (por ejemplo, zonas de amortiguamiento de 2 km).
@@ -95,29 +95,3 @@ Permiten ver otro proyecto como capa de fondo mientras trabajas en el tuyo, sin 
 - **Comentarios:** *Ayuda → Enviar comentarios* 
 
 ---
-
-## Actividades prácticas
-
-### Actividad 1: Incorporar datos
-1. Importar el KML **Current Stations** como *Componentes de mapa*.
-2. Importar el SHP **Protected Areas** como *Capa de datos*.
-3. Importar el CSV **GLAD Alerts** como *Capa de datos* y aplicar estilo por *Confidence*.
-
-### Actividad 2: Comprender la historia del paisaje
-1. Acercarse a un grupo de alertas de alta confianza.
-2. Usar **Imágenes históricas** para ver la pérdida de bosque.
-3. Añadir un modelo de elevación desde el **Catálogo de datos**.
-
-### Actividad 3: Creación y medición
-1. Añadir un marcador para una "Nueva estación" cerca de las alertas.
-2. Medir el área deforestada y la distancia desde la nueva estación.
-3. Dibujar un círculo de 2 km alrededor del claro (zona de disturbio).
-4. Nombrar el proyecto `NOMBRE_Monitoring` y compartirlo con un compañero.
-
-### Actividad 4: Proyectos de referencia
-1. Abrir **WWF HydroRIVERS Colombia** desde Google Drive para que aparezca en tu lista de proyectos.
-2. En tu proyecto de monitoreo, añadirlo como *Proyecto de referencia*.
-3. Abrir **Significant Sites** (información sensible) como *Archivo KML local*.
-4. Desde el KML local, añadir tu proyecto de monitoreo como *Proyecto de referencia*.
-
-📂 Datos para las actividades: [Día 2 - Geodata](http://goo.gle/g4g26-data)
