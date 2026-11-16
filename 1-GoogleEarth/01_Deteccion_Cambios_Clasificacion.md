@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 01_Detección_Cambios_y_Clasificación
-parent: "1-intro-to-GoogleEarth"
+parent: "00-intro-to-GoogleEarth"
 nav_order: 1
 ---
 
