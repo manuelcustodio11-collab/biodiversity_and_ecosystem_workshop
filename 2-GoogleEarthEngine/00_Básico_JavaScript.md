@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 00_Básico_JavaScript
-parent: "01_GEE"
+parent: "01-GEE"
 nav_order: 1
 ---
 
