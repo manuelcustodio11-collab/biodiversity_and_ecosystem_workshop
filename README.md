@@ -10,8 +10,8 @@ Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop*
 
 El taller está organizado en dos módulos:
 
-- **[1. Google Earth ](1-intro-to-GoogleEarth/)** — Introducción a Google Earth en la web, nuevas herramientas!
-- **[2. Google Earth Engine](2-ecosystems-changes/)** — Análisis de similitud y detección de cambios usando embeddings satelitales.
+- **[1. Google Earth ](1-intro-to-GoogleEarth/)** — Introducción a Google Earth en la web, nuevas herramientas! Ejercicios prácticos de detección de cambios y clasificación de coberturas.
+- **[2. Google Earth Engine](2-ecosystems-changes/)** — Introducción a Google Earth Engine. Ejercicios prácticos en áreas protegidas, representividad de ecoregiones, pérdida de cobertura de bosque y conectividad de especies.
 
 ## Scripts
 
