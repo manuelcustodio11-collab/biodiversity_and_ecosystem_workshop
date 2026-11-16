@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "00-intro-to-GoogleEarth"
-permalink: /1-intro-to-GoogleEarth
+permalink: /1-GoogleEarth/
 has_children: true
 nav_order: 2
 ---
