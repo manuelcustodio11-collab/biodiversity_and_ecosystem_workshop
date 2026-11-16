@@ -4,34 +4,30 @@
 
 # Regional Biodiversity Workshop
 
-Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop**, incluyendo instrucciones paso a paso, materiales de apoyo y scripts de Google Earth Engine (GEE). Está configurado como un sitio web mediante `github-pages`. 
+Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop**, incluyendo instrucciones paso a paso, materiales de apoyo para actividades en Google Earth, y scripts de Google Earth Engine (GEE). Está configurado como un sitio web mediante `github-pages`. 
 
 ## Contenido del taller
 
-El taller está organizado en tres módulos:
+El taller está organizado en dos módulos:
 
-- **[1. Introducción a Google Earth Engine](1-intro-to-gee/)** — Fundamentos de JavaScript, visualización de imágenes satelitales, filtrado de colecciones Landsat/Sentinel-2, y análisis de ecorregiones y carbono.
-- **[2. Cambios en ecosistemas](2-ecosystems-changes/)** — Análisis de similitud y detección de cambios usando embeddings satelitales.
-- **[3. Biomasa aérea (AGB)](3-agb-biomass/)** — Estimación de biomasa aérea con embeddings satelitales.
+- **[1. Google Earth ](1-intro-to-GoogleEarth/)** — Introducción a Google Earth en la web, nuevas herramientas!
+- **[2. Google Earth Engine](2-ecosystems-changes/)** — Análisis de similitud y detección de cambios usando embeddings satelitales.
 
 ## Scripts
 
-Los scripts de Google Earth Engine usados en cada sesión están en la carpeta [`scripts/`](scripts/), organizados por día (`day_1`, `day_2`, `day_3`).
+Los scripts de Google Earth Engine usados en cada sesión están en la carpeta [`scripts/`](scripts/).
 
 ## Estructura del repositorio
 
 Este repositorio es una plantilla para configurar un sitio web con [`github-pages`](https://pages.github.com/) que aloja todo el contenido (instrucciones paso a paso, diapositivas, código) de talleres de capacitación.
 
 ```
-biodiversity_workshop/
-├── 1-intro-to-gee/         # Material y guías del día 1
-├── 2-ecosystems-changes/   # Material y guías del día 2
-├── 3-agb-biomass/          # Material y guías del día 3
+biodiversity_and_ecosystem_workshop/
+├── 1-intro-to-GoogleEarth/         # Material y guías del día 2
+├── 2-intro-to-GEE/   # Material y guías del día 3
 ├── scripts/                # Scripts de GEE organizados por día
 ├── images/                 # Imágenes y figuras usadas en el sitio
 ├── index.md                # Página principal del sitio
-├── partners.md             # Socios y colaboradores
-├── resources.md            # Recursos adicionales
 └── _config.yml             # Configuración de GitHub Pages
 ```
 <!-- :construction: Under Construction :construction:
