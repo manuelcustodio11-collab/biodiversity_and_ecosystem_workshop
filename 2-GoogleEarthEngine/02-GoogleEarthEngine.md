@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "00-GEE"
+title: "01-GoogleEarthEngine"
 permalink: /2-GoogleEarthEngine/
 has_children: true
 nav_order: 2
