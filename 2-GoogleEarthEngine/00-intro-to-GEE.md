@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2-intro-to-GoogleEarthEngine"
-permalink: /00-intro-to-GEE
+title: "00_intro_to_GEE"
+permalink: /2-GoogleEarthEngine
 has_children: true
 nav_order: 2
 ---
