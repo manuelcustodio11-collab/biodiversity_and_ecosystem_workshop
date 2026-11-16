@@ -3,7 +3,7 @@ layout: page
 title: "01-GoogleEarthEngine"
 permalink: /2-GoogleEarthEngine/
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 
