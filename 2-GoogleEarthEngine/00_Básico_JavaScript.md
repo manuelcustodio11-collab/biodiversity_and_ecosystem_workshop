@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 00_Básico_JavaScript
-parent: "2-intro-to-GoogleEarthEngine"
+parent: "00_intro_to_GEE"
 nav_order: 1
 ---
 
