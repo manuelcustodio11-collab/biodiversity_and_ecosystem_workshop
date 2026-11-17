@@ -323,7 +323,6 @@ Export.image.toAsset({
 - **Neblina y Cloud Score+:** la neblina de las lomas puede ser tratada por Cloud Score+ como píxeles poco claros; si quedan muy pocos píxeles válidos en la temporada húmeda, bajar `UMBRAL_CLARO` es la primera palanca.
 - **Autoría:** las Partes 0 y 1 están adaptadas de EEFA (cap. F1) y de ejemplos de Google; mantener la atribución en cualquier material derivado.
 
-- ### Código completo
 
-Script "`00_Intro_GEE`":
+## Script "`00_Intro_GEE`":
 https://code.earthengine.google.com/?scriptPath=users%2Fpaulapaz1101%2Fbiodiversity_and_ecosystem_workshop%3ALima_Nov_2026%2F00_Introduccion
