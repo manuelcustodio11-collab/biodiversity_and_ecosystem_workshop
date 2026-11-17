@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "00-intro-to-GoogleEarth"
+title: "00-GoogleEarth"
 permalink: /1-GoogleEarth/
 has_children: true
 nav_order: 2
@@ -9,12 +9,11 @@ nav_order: 2
 # Introducción a Google Earth en la web
 
 ## Objetivo 
-## Objetivo
 Navegar en la interfaz de Google Earth en la web (GE) y aprender a almacenar, importar y organizar datos propios (KML, SHP, CSV), explorar imágenes históricas y conjuntos de datos del Catálogo de datos, y usar las herramientas de creación, medición y colaboración para analizar cambios en un paisaje de interés de su país.
 
 ## Set-up
-1. [Ejecutar Earth](https://www.google.es/intl/es/earth/index.html) 
-2. [Instrucciones para registrarse en Google Cloud Platform y GEE](https://docs.google.com/document/d/1n40y1vcDQVspXZODvGuCDtBnykudkURDvh-tPmvXLKs/edit?tab=t.si25om8ipoh9)
+1. Asegúrate de poder iniciar sesión en [Google Earth](https://earth.google.com/web/?utm_source=event-google&utm_medium=email&utm_campaign=redlac&utm_content=) con tu cuenta de Google. Algunos dominios de Google Workspace pueden bloquear el acceso a la aplicación Google Earth. Si tienes algún problema, ponte en contacto con nosotros para que podamos ayudarte a resolverlo antes del taller.
+2. Completa este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdg8aw4Asni3yNnyzh99EiqoWcD3olm1pFzKarRmUXpV--2_A/viewform) para obtener acceso temporal a [Google Earth Professional Advanced](https://mapsplatform.google.com/maps-products/earth/plans/). Aunque el plan Standard incluye las funciones que enseñaremos en el taller, los planes profesionales ofrecen mayores capacidades. Para que puedas aprovechar al máximo las herramientas durante el taller, otorgaremos a todos los participantes acceso temporal al plan Google Earth Professional Advanced durante el evento. Esto te permitirá realizar clasificaciones de áreas a gran escala y utilizar las funciones más avanzadas sin los límites de cuota del plan Standard.
 
 
 # Google Earth Web: Fundamentos
