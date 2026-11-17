@@ -25,7 +25,7 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 ### Día 2 · 19 de noviembre — Google Earth Web (sin código)
 
 **Moderadores:** Sylvia Wilson, Paul Berkowitz  
-**Capacitadores:** Paula Paz, Manuel Custodio
+**Capacitadores:** Tanya Birch y Paula Paz
 
 | Horario | Sesión | Material |
 |:--------|:-------|:---------|
@@ -41,7 +41,7 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 | Horario | Sesión | Material |
 |:--------|:-------|:---------|
 | 09:00–10:00 | Ejercicio introductorio de GEE: búsqueda, carga, filtrado y visualización de imágenes | [Introducción a GEE]({{ '/2-GoogleEarthEngine/' | relative_url }}) · [Básico de JavaScript]({{ '/2-GoogleEarthEngine/00_Basico_JavaScript.html' | relative_url }}) |
-| 10:30–12:00 | Práctica por país o paisaje: `05_Representativeness_AP_Ecoregions`, `06_Stock_Carbon_Loss`. *Crédito extra:* integridad ecosistémica en GEE | Repositorio GEE |
+| 10:30–12:00 | Práctica por país o paisaje: `00_Introduccion`,`01_Representatividad_Ecoregiones`, `06_Perdidad_Cobertura_Arborea`, `03_Conectividad`. | Repositorio GEE |
 
 ---
 
