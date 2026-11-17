@@ -184,6 +184,6 @@ Map.onClick(function(coords) {
 - **Cobertura de la WDPA:** una búsqueda sin resultados no implica que el área no exista; puede estar registrada con otro nombre, en otro idioma, solo como punto o en otro país.
 - **Actualización mensual:** el catálogo se actualiza cada mes, por lo que un `SITE_ID` o un nombre puede cambiar entre versiones. Conviene verificar el nombre impreso antes de usar el identificador en otros scripts.
 
-Script "`A0_Buscador_Areas_Protegidas`":
+## Script "`A0_Buscador_Areas_Protegidas`":
 https://code.earthengine.google.com/?scriptPath=users%2Fpaulapaz1101%2Fbiodiversity_and_ecosystem_workshop%3ALima_Nov_2026%2FA0_Buscador_Areas_Protegidas -->
 
