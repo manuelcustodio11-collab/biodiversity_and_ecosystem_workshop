@@ -13,35 +13,37 @@ Para mayor detalle del taller, ver la [agenda completa](https://docs.google.com/
 
 Desarrollar las capacidades de actores locales y responsables de la toma de decisiones para medir el impacto de sus inversiones en conservación y en iniciativas a escala de paisaje, y así fortalecer sus reportes ante el Marco Mundial de Biodiversidad, las instituciones nacionales y los organismos internacionales de cooperación y financiamiento.
 
+## Antes de empezar
+
+1. Tener una cuenta de Google.
+2. Registrar un proyecto de Google Cloud para Earth Engine ([instrucciones](https://docs.google.com/document/d/1n40y1vcDQVspXZODvGuCDtBnykudkURDvh-tPmvXLKs/edit?tab=t.si25om8ipoh9)).
+3. Aceptar el [repositorio del taller en GEE](https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_and_ecosystem_workshop).
 
 ## Agenda ejercicios Google Earth y Google Earth Engine
 
-## Día 2 - 19 de noviembre
 
-### Google Earth Web [Sin código]
+### Día 2 · 19 de noviembre — Google Earth Web (sin código)
 
 **Moderadores:** Sylvia Wilson, Paul Berkowitz  
 **Capacitadores:** Paula Paz, Manuel Custodio
 
-| Horario | Sesión | Presenta |
-|---------|--------|----------|
-| 13:00–14:00 | Ejercicio en Google Earth: Análisis de paisaje y detección de cambios |
-| 14:00–15:00 | Ejercicio guiado en Google Earth: Mapeo de cobertura del suelo y ecosistemas a lo largo del tiempo | 
-| 15:30–16:30 | Práctica por país o paisaje con apoyo de los capacitadores. Integración de datos propios (datos de campo, shapefile) en Google Earth |
+| Horario | Sesión | Material |
+|:--------|:-------|:---------|
+| 13:00–14:00 | Ejercicio en Google Earth: análisis de paisaje y detección de cambios | [Introducción a Google Earth]({{ '/1-GoogleEarth/' | relative_url }}) |
+| 14:00–15:00 | Ejercicio guiado: mapeo de cobertura del suelo y ecosistemas a lo largo del tiempo | [Detección de cambios y clasificación]({{ '/1-GoogleEarth/01_Deteccion_Cambios_Clasificacion.html' | relative_url }}) |
+| 15:30–16:30 | Práctica por país o paisaje con apoyo de los capacitadores: integración de datos propios (datos de campo, shapefile) | — |
 
----
-
-## Día 3 - 20 de noviembre
-
-### Google Earth Engine: Introducción y primeros scripts
+### Día 3 · 20 de noviembre — Google Earth Engine: introducción y primeros scripts
 
 **Moderadores:** Paul Berkowitz, Sylvia Wilson  
 **Capacitadores:** Manuel Custodio, Paula Paz
 
-| Horario | Sesión | Materiales |
-|---------|--------|------------|
-| 09:00–10:00 | Ejercicio introductorio de GEE: Búsqueda, carga, filtrado y visualización de imágenes | 
-| 10:30–12:00 | Práctica por país o paisaje <br>`05_Representativeness_AP_Ecoregions`<br>`06_Stock_Carbon_Loss`<br>*Crédito extra:* Integridad ecosistémica en Google Earth Engine |
+| Horario | Sesión | Material |
+|:--------|:-------|:---------|
+| 09:00–10:00 | Ejercicio introductorio de GEE: búsqueda, carga, filtrado y visualización de imágenes | [Introducción a GEE]({{ '/2-GoogleEarthEngine/' | relative_url }}) · [Básico de JavaScript]({{ '/2-GoogleEarthEngine/00_Basico_JavaScript.html' | relative_url }}) |
+| 10:30–12:00 | Práctica por país o paisaje: `05_Representativeness_AP_Ecoregions`, `06_Stock_Carbon_Loss`. *Crédito extra:* integridad ecosistémica en GEE | Repositorio GEE |
+
+---
 
 
 ## Repositorio
