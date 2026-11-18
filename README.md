@@ -25,10 +25,9 @@ Este repositorio es una plantilla para configurar un sitio web con [`github-page
 biodiversity_and_ecosystem_workshop/
 ├── 1-intro-to-GoogleEarth/         # Material y guías del día 2
 ├── 2-intro-to-GEE/   # Material y guías del día 3
-├── scripts/                # Scripts de GEE organizados por día
 ├── images/                 # Imágenes y figuras usadas en el sitio
 ├── index.md                # Página principal del sitio
-└── _config.yml             # Configuración de GitHub Pages
+└── config.yml             # Configuración de GitHub Pages
 ```
 <!-- :construction: Under Construction :construction:
 
